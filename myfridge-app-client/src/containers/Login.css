@@ -1,0 +1,18 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.header-login {
+  font-size: 6.5em;
+  color: #fff;
+  text-align: center;
+  margin-top: 1.6em;
+  margin-bottom: 1.3em;
+}

@@ -1,0 +1,66 @@
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 5em;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.header {
+  font-size: 5em;
+  color: #fff;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 13em;
+}
+
+.color-list-left {
+  background-color: #16796F;
+  box-shadow: 2px 2px 15px 0px #36393f;
+}
+
+.color-list-right {
+  background-color: #16796F;
+  box-shadow: -2px 2px 15px 0px #36393f;
+}
+
+ul {
+  padding: 30px;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  margin-top: 5em;
+}
+
+
+.category-name-right {
+  font-size: 4.5em;
+  margin-left: 8em;
+  margin-top: 1em;
+}
+
+.category-name-left {
+  font-size: 4.5em;
+  margin-right: 8em;
+  margin-top: 1em;
+  text-align: right;
+}
+
+.category-row {
+  padding-bottom: 3em;
+}

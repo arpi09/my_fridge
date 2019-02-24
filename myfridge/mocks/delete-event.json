@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "2ec87fa0-33c0-11e9-87d2-8dc9198839a5"
+  },
+  "requestContext": {
+    "category": {
+      "categoryName": "Dairy"
+    }
+  }
+}

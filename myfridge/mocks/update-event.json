@@ -1,0 +1,11 @@
+{
+  "body": "{\"productName\":\"Cream\",\"bestBefore\":\"2019-02-27\",\"price\":\"11\"}",
+  "pathParameters": {
+    "id": "2ec87fa0-33c0-11e9-87d2-8dc9198839a5"
+  },
+  "requestContext": {
+    "category": {
+      "categoryName": "Dairy"
+    }
+  }
+}
